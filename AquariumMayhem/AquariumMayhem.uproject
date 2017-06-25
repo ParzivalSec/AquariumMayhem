@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E58BE515-4D87-048F-954A-F699AA087958}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AquariumMayhem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
